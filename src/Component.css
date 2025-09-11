@@ -1,10 +1,17 @@
 .main{
     display: flex;
     align-items: center;
-    
+    background-color: black;
 }
 .header{
     color: black;
+    background-color: yellowgreen;
+}
+.body{
+    background-color: greenyellow;
+}
+.footer{
+    background-color: green;
 }
 
 .index{
