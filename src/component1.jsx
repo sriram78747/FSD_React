@@ -4,3 +4,4 @@ const component1 = () => {
         <h1>component1</h1>
     )
 }
+export default component1;

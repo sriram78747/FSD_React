@@ -2,8 +2,8 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 // import CardComponent from './CardComponent';
-import CardComponent from './FunctionComponent.jsx'
-import MyImage from './assets/react.svg';
+// import CardComponent from './FunctionComponent.jsx'
+// import MyImage from './assets/react.svg';
 import './App.css'
 import "./component1.jsx"
 import "./component2.jsx"
